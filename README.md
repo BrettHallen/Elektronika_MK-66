@@ -2,6 +2,8 @@
 Information about the Soviet-era engineering "microcalculator".<br>
 
 Processor: К145ИП16Б<br>
+Display: ИЛЦ2-12/8Л<br>
+Keypad: 5x5 metal-dome matrix<br>
 
 ## DEAR COMRADE!
 You are now the owner of a domestically made microcalculator.<br>
