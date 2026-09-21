@@ -1,0 +1,8537 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "d1327382-ad6e-41d9-87d5-65c5aa7b577e")
+	(paper "A3")
+	(title_block
+		(title "Электроника МК-66")
+		(company "Brett Hallen")
+	)
+	(lib_symbols
+		(symbol "Clueless_Engineer:K145IP15"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 30.48 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "К145ИП15"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "K145IP15_1_1"
+				(rectangle
+					(start -27.94 5.08)
+					(end 27.94 -7.62)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -22.86 -10.16 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 -10.16 90)
+					(length 2.54)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -10.16 90)
+					(length 2.54)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 -10.16 90)
+					(length 2.54)
+					(name "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 -10.16 90)
+					(length 2.54)
+					(name "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 -10.16 90)
+					(length 2.54)
+					(name "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 -10.16 90)
+					(length 2.54)
+					(name "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -10.16 90)
+					(length 2.54)
+					(name "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -17.78 -10.16 90)
+					(length 2.54)
+					(name "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -10.16 90)
+					(length 2.54)
+					(name "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -10.16 90)
+					(length 2.54)
+					(name "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -22.86 7.62 270)
+					(length 2.54)
+					(name "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -20.32 7.62 270)
+					(length 2.54)
+					(name "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -17.78 7.62 270)
+					(length 2.54)
+					(name "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -15.24 7.62 270)
+					(length 2.54)
+					(name "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 7.62 270)
+					(length 2.54)
+					(name "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 7.62 270)
+					(length 2.54)
+					(name "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 7.62 270)
+					(length 2.54)
+					(name "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 7.62 270)
+					(length 2.54)
+					(name "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 7.62 270)
+					(length 2.54)
+					(name "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 22.86 7.62 270)
+					(length 2.54)
+					(name "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 7.62 270)
+					(length 2.54)
+					(name "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 7.62 270)
+					(length 2.54)
+					(name "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 7.62 270)
+					(length 2.54)
+					(name "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -10.16 90)
+					(length 2.54)
+					(name "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 7.62 270)
+					(length 2.54)
+					(name "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 7.62 270)
+					(length 2.54)
+					(name "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 7.62 270)
+					(length 2.54)
+					(name "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 7.62 270)
+					(length 2.54)
+					(name "36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 7.62 270)
+					(length 2.54)
+					(name "37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 7.62 270)
+					(length 2.54)
+					(name "38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -2.54 7.62 270)
+					(length 2.54)
+					(name "39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -25.4 7.62 270)
+					(length 2.54)
+					(name "40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Clueless_Engineer:PN-1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "ПН-1"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "VFD Power Supply"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "VFD power supply"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PN-1_0_0"
+				(pin unspecified line
+					(at 17.78 -2.54 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 -2.54 270)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 -2.54 270)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -12.7 -2.54 270)
+					(length 2.54)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 -2.54 270)
+					(length 2.54)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PN-1_0_1"
+				(rectangle
+					(start -15.24 -5.08)
+					(end 20.32 -15.24)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "PN-1_1_1"
+				(text "VFD Power Supply"
+					(at 0 -10.16 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:Battery"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "BT"
+				(at 2.54 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "Battery"
+				(at 2.54 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 1.524 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 1.524 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Multiple-cell battery"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Sim.Device" "V"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Sim.Type" "DC"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Sim.Pins" "1=+ 2=-"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "batt voltage-source cell"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Battery_0_1"
+				(rectangle
+					(start -2.286 1.778)
+					(end 2.286 1.524)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -2.286 -1.27)
+					(end 2.286 -1.524)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -1.524 1.016)
+					(end 1.524 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -1.524 -2.032)
+					(end 1.524 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.778) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.508) (xy 0 -0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.016) (xy 0 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 3.048) (xy 1.778 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 3.556) (xy 1.27 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Battery_1_1"
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:C"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C"
+				(at 0.635 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:C_Polarized"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized"
+				(at 0.635 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Polarized capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C_Polarized_0_1"
+				(rectangle
+					(start -2.286 0.508)
+					(end 2.286 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 2.286) (xy -0.762 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.794) (xy -1.27 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.286 -0.508)
+					(end -2.286 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "C_Polarized_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Switch:SW_Push_45deg"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 3.048 1.016 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "SW_Push_45deg"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "switch normally-open pushbutton push-button"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_Push_45deg_0_1"
+				(polyline
+					(pts
+						(xy -2.54 2.54) (xy -1.524 1.524) (xy -1.524 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -1.1684 1.1684)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 2.54) (xy 2.54 -0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 1.016) (xy 2.032 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.143 -1.1938)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.524 -1.524) (xy 2.54 -2.54) (xy 2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 2.54 0)
+					(length 0)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -2.54 180)
+					(length 0)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Switch:SW_SPST"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 0 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_SPST"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Single Pole Single Throw (SPST) switch"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "switch lever"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_SPST_0_0"
+				(circle
+					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 0.254) (xy 1.524 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SW_SPST_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "WORK IN PROGRESS (21/SEP/2026)"
+		(exclude_from_sim no)
+		(at 354.838 259.334 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "d4c1b989-5943-43fe-9cb3-362e1eec64f1")
+	)
+	(junction
+		(at 274.32 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "014b8998-ea99-4e68-9aaf-18d962e595ab")
+	)
+	(junction
+		(at 321.31 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0298e758-2eeb-4496-b8ff-86ab3e582154")
+	)
+	(junction
+		(at 290.83 195.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04e35ca3-b6d7-4537-82a3-7e97ad3da29a")
+	)
+	(junction
+		(at 241.3 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "080e4078-3611-4f01-8e9d-921119d29d24")
+	)
+	(junction
+		(at 262.89 214.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b0020bc-ce9e-4bba-8c25-c982bc1bec7f")
+	)
+	(junction
+		(at 257.81 195.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c27dec8-71d9-43d0-99d3-aedc50d9f1be")
+	)
+	(junction
+		(at 143.51 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e617719-a3d6-4f75-812b-e55f2d008a09")
+	)
+	(junction
+		(at 279.4 200.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0f56bb90-fdfa-46d2-aed0-d3e3ca0fdfde")
+	)
+	(junction
+		(at 246.38 214.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "109a2d07-0136-4410-a737-5761c7b6c016")
+	)
+	(junction
+		(at 321.31 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "170bcf60-8cc1-4412-9f02-3e07951bc01b")
+	)
+	(junction
+		(at 274.32 195.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b09b65b-019b-419c-a1dc-46cd4be2387f")
+	)
+	(junction
+		(at 321.31 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b86fa45-84c5-48e0-a161-982e8149bbf3")
+	)
+	(junction
+		(at 224.79 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2042cac2-653a-4c4c-ae99-34f807ee8112")
+	)
+	(junction
+		(at 246.38 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b605a35-9009-459f-b5d4-b9c50488bbac")
+	)
+	(junction
+		(at 321.31 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "334f5afd-c26b-434f-ad7d-fdd848ef61ac")
+	)
+	(junction
+		(at 158.75 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ae7d2e4-61cb-4921-aec1-d990335a2e9d")
+	)
+	(junction
+		(at 321.31 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b794620-4055-4959-a0ce-f33598bd5c9e")
+	)
+	(junction
+		(at 224.79 195.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4227e1e4-58cc-445e-8673-ddef2359f09c")
+	)
+	(junction
+		(at 153.67 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42e78f5b-4876-4b45-a8fb-8758eb3218ab")
+	)
+	(junction
+		(at 321.31 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "437db766-cf23-4880-b309-91ae8d86563e")
+	)
+	(junction
+		(at 321.31 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "54cbf728-0232-460b-acb6-8b0e7788befd")
+	)
+	(junction
+		(at 279.4 214.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5731c612-8798-4a4b-bdb7-60dc6670f221")
+	)
+	(junction
+		(at 262.89 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57e5eac4-d096-4bf6-a5c2-9dbb2392415d")
+	)
+	(junction
+		(at 262.89 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a1b073c-2cb8-4d1f-b0cd-d1c207db25ae")
+	)
+	(junction
+		(at 246.38 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a6f1212-7283-4e06-b136-daf9267cd44f")
+	)
+	(junction
+		(at 138.43 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f75a488-f5f0-4e9c-8bb4-dc6f6f294133")
+	)
+	(junction
+		(at 241.3 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6074989b-c4fb-4cf5-b214-6d32734cd12d")
+	)
+	(junction
+		(at 224.79 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "66ba5f56-a349-4bf4-a770-88569760350d")
+	)
+	(junction
+		(at 229.87 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "720cab5c-c4d8-4f48-9177-c23c4db600aa")
+	)
+	(junction
+		(at 257.81 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7293eccd-87f4-4879-a366-7fbf6ff580c0")
+	)
+	(junction
+		(at 274.32 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78fbf92d-e871-43a3-ad51-bd3153f462f6")
+	)
+	(junction
+		(at 143.51 233.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e140311-2c14-4f6f-a7e8-7b32cfe24d24")
+	)
+	(junction
+		(at 290.83 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7fdad8d2-d8bf-4115-92f5-04553007bcaf")
+	)
+	(junction
+		(at 290.83 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80e988cc-2875-44b6-8a3e-0b0e421594ec")
+	)
+	(junction
+		(at 257.81 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "830258ab-0c39-4163-b99b-2f1f0804182a")
+	)
+	(junction
+		(at 143.51 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "89552141-d4ae-40fc-9bbc-d535ce535977")
+	)
+	(junction
+		(at 257.81 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8af2755f-835f-41c7-a99b-187c95c6e0b2")
+	)
+	(junction
+		(at 229.87 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b49a6a4-c296-4df5-99e8-ca224bce37b6")
+	)
+	(junction
+		(at 246.38 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9caaf51e-1eb9-438a-90e4-43cfc1411bfa")
+	)
+	(junction
+		(at 279.4 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cbdec47-3dd6-4509-81a8-b445b12b5272")
+	)
+	(junction
+		(at 262.89 200.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e538c54-cadb-4d0e-8d84-63bbf2b79642")
+	)
+	(junction
+		(at 229.87 200.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9ed242ef-c717-4e97-9fa5-40e9e0902bab")
+	)
+	(junction
+		(at 229.87 214.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f6c9da4-3851-400e-b6de-0c78b3c13b35")
+	)
+	(junction
+		(at 246.38 200.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4c89d51-22aa-45d5-aff5-d16568f01611")
+	)
+	(junction
+		(at 168.91 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5c3e221-23c4-4f1b-b985-7f0de02389bc")
+	)
+	(junction
+		(at 321.31 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8f08541-f09c-48fb-b4dd-0cafc57771ca")
+	)
+	(junction
+		(at 279.4 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aebfe6ea-5472-4146-848a-44932eff4fec")
+	)
+	(junction
+		(at 274.32 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b1d04dd0-1783-46a8-a09f-6964437a567a")
+	)
+	(junction
+		(at 290.83 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b473d67d-6d4e-442b-abc3-5421ea185365")
+	)
+	(junction
+		(at 241.3 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bac3e0ed-27b4-4485-92b7-5b48b4a8bd88")
+	)
+	(junction
+		(at 279.4 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7e25ce9-d91a-40e0-835d-199151e8f2a8")
+	)
+	(junction
+		(at 224.79 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc4d389d-ecdd-49ea-b38c-7e060715b2a7")
+	)
+	(junction
+		(at 257.81 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8bbe22b-1589-4205-b22a-cb34e238c460")
+	)
+	(junction
+		(at 148.59 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d91eb1ec-36b4-409d-adef-fe1dd3bd81b3")
+	)
+	(junction
+		(at 241.3 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dcb37019-4689-4302-9d08-29276608ee01")
+	)
+	(junction
+		(at 290.83 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "df158169-e408-4af5-83f1-a34302d7dc59")
+	)
+	(junction
+		(at 274.32 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "df3884b2-ab44-4a1f-8fb3-19f71a114f19")
+	)
+	(junction
+		(at 241.3 195.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2e7bf7e-2889-4eb3-b324-3642f0ac0da3")
+	)
+	(junction
+		(at 321.31 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3dcbd71-0cc7-4a32-943b-bef63a01d76c")
+	)
+	(junction
+		(at 229.87 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f201fe48-0384-4b81-9f16-f4f3d8c88a0b")
+	)
+	(junction
+		(at 224.79 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f54f9ac1-252f-4910-a793-7716aa4a74bf")
+	)
+	(junction
+		(at 171.45 214.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f57f562c-d23e-42db-98ef-9f2b454491fb")
+	)
+	(junction
+		(at 321.31 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f60931c8-a4e6-4573-a024-bb05b3ca583c")
+	)
+	(junction
+		(at 262.89 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "feea296f-22f9-4c25-ad39-48d787be0f06")
+	)
+	(wire
+		(pts
+			(xy 153.67 27.94) (xy 153.67 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "000bc4d5-98d6-48a3-a214-d88c68e3fd5e")
+	)
+	(wire
+		(pts
+			(xy 90.17 233.68) (xy 143.51 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06578f76-aa3f-4612-937c-da839ad4a820")
+	)
+	(wire
+		(pts
+			(xy 166.37 120.65) (xy 313.69 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0708a556-18e1-488a-85d2-41d39f8d7f32")
+	)
+	(wire
+		(pts
+			(xy 257.81 167.64) (xy 257.81 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07729a26-4654-4026-8157-bd15c24eb707")
+	)
+	(wire
+		(pts
+			(xy 290.83 110.49) (xy 290.83 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08013a3c-e802-4b5a-a578-6f2d48a4677c")
+	)
+	(wire
+		(pts
+			(xy 290.83 110.49) (xy 313.69 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ae78a48-25b6-4ef4-9012-5a61d32bd1c3")
+	)
+	(wire
+		(pts
+			(xy 176.53 81.28) (xy 241.3 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b0806ef-a59d-4671-99aa-50c8ff0de772")
+	)
+	(wire
+		(pts
+			(xy 133.35 156.21) (xy 133.35 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b732fc4-28da-499c-9772-402a26e55cc7")
+	)
+	(wire
+		(pts
+			(xy 143.51 185.42) (xy 154.94 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cbeb3ac-02ae-4c23-a7e8-f8d196776f83")
+	)
+	(wire
+		(pts
+			(xy 97.79 85.09) (xy 143.51 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cc84f78-f725-46e5-9fb7-2c34c105e54e")
+	)
+	(wire
+		(pts
+			(xy 158.75 45.72) (xy 158.75 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ccf4f53-8b8f-4a4c-929a-8fba9eae684d")
+	)
+	(wire
+		(pts
+			(xy 313.69 27.94) (xy 153.67 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1048d4e8-a557-4bef-975d-116926cf803d")
+	)
+	(wire
+		(pts
+			(xy 179.07 172.72) (xy 179.07 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10f05f7a-b0b3-4087-bbd0-59342870919f")
+	)
+	(wire
+		(pts
+			(xy 143.51 185.42) (xy 143.51 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "118a5b58-addf-43c9-91ea-ea7389ea997c")
+	)
+	(wire
+		(pts
+			(xy 143.51 160.02) (xy 143.51 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1496de90-84f8-49b6-9b69-cb6dda785cdc")
+	)
+	(wire
+		(pts
+			(xy 246.38 200.66) (xy 262.89 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "150c0176-3c00-4bab-b2fa-797f6060f374")
+	)
+	(wire
+		(pts
+			(xy 224.79 153.67) (xy 224.79 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15588333-1962-444c-8de3-ec5a353b6f9a")
+	)
+	(wire
+		(pts
+			(xy 313.69 45.72) (xy 158.75 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16b394fd-5c81-4fe5-8483-eb571d1e50eb")
+	)
+	(wire
+		(pts
+			(xy 229.87 172.72) (xy 246.38 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1723f457-3d2f-400e-9527-722b7eb00321")
+	)
+	(wire
+		(pts
+			(xy 246.38 158.75) (xy 262.89 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ceab368-4085-4263-ad19-05088b99ab6d")
+	)
+	(wire
+		(pts
+			(xy 321.31 110.49) (xy 321.31 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e106711-1b04-4f28-92b5-cf76f79b305a")
+	)
+	(wire
+		(pts
+			(xy 241.3 81.28) (xy 313.69 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "231fa375-e65c-4048-b58c-654f657f8c58")
+	)
+	(wire
+		(pts
+			(xy 163.83 138.43) (xy 163.83 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "232fdfe0-8d71-427d-b58b-370c0f35e633")
+	)
+	(wire
+		(pts
+			(xy 274.32 153.67) (xy 274.32 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23ade81d-e3f6-495f-9b16-2fb7fdfe3d92")
+	)
+	(wire
+		(pts
+			(xy 148.59 64.77) (xy 148.59 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "246b68f8-9054-401c-898b-603d4b6d28c8")
+	)
+	(wire
+		(pts
+			(xy 148.59 175.26) (xy 153.67 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "258375ef-c3c4-4db1-84dc-696e7dac2c56")
+	)
+	(wire
+		(pts
+			(xy 148.59 156.21) (xy 148.59 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26038daf-597c-4618-ad73-b990b64442f3")
+	)
+	(wire
+		(pts
+			(xy 173.99 156.21) (xy 173.99 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2605bebb-fff1-480b-9490-13ec0722251e")
+	)
+	(wire
+		(pts
+			(xy 241.3 153.67) (xy 241.3 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "295d6b23-03ca-4703-bdb4-d39eb4a99f88")
+	)
+	(wire
+		(pts
+			(xy 224.79 181.61) (xy 224.79 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b37abe7-0e21-4b59-a476-9c26017c0435")
+	)
+	(wire
+		(pts
+			(xy 257.81 181.61) (xy 257.81 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c8523b1-fa3a-465c-8f42-9549b581dbbd")
+	)
+	(wire
+		(pts
+			(xy 321.31 36.83) (xy 321.31 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fa3d66a-8adf-4936-80d3-8fb60fe6652f")
+	)
+	(wire
+		(pts
+			(xy 138.43 156.21) (xy 138.43 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30cebf6a-ceb4-4846-b4e9-2ea745b58dd9")
+	)
+	(wire
+		(pts
+			(xy 321.31 120.65) (xy 321.31 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "310f5b2f-b566-4c22-9ecb-1afc95d23397")
+	)
+	(wire
+		(pts
+			(xy 241.3 153.67) (xy 241.3 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "319ded53-5b19-4abb-8720-c2bc3d354c69")
+	)
+	(wire
+		(pts
+			(xy 290.83 153.67) (xy 290.83 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "322215e9-5ddd-4bed-89a0-480b1d910d7f")
+	)
+	(wire
+		(pts
+			(xy 181.61 158.75) (xy 229.87 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33907c4a-2c63-4582-a537-f526007bf001")
+	)
+	(wire
+		(pts
+			(xy 176.53 186.69) (xy 229.87 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "363e6bcd-bc00-40c2-b631-8c2c36a34e44")
+	)
+	(wire
+		(pts
+			(xy 173.99 138.43) (xy 173.99 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c0c8703-e07a-43b0-a41d-4015f9fbd620")
+	)
+	(wire
+		(pts
+			(xy 321.31 45.72) (xy 321.31 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3deb64c7-d9a6-44c7-a4e8-4abb617157c9")
+	)
+	(wire
+		(pts
+			(xy 97.79 105.41) (xy 138.43 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fc6e9e3-8a09-4a6c-aab0-be78e10cd461")
+	)
+	(wire
+		(pts
+			(xy 173.99 90.17) (xy 257.81 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44ef4299-6d24-4732-942a-cb401bd17621")
+	)
+	(wire
+		(pts
+			(xy 279.4 172.72) (xy 295.91 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46dc7c4d-3ddc-46f7-a343-57dd2216b0ba")
+	)
+	(wire
+		(pts
+			(xy 179.07 172.72) (xy 229.87 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4780edf7-efaa-459d-8d7c-bdba73e24a55")
+	)
+	(wire
+		(pts
+			(xy 257.81 90.17) (xy 257.81 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48a38902-0806-4b25-a1fb-80adca2886d8")
+	)
+	(wire
+		(pts
+			(xy 133.35 160.02) (xy 138.43 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a26cd54-7ef8-42ee-9564-24e9e0e2b2ee")
+	)
+	(wire
+		(pts
+			(xy 176.53 138.43) (xy 176.53 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a566618-97cf-4c5f-abe2-679ee25bbb78")
+	)
+	(wire
+		(pts
+			(xy 156.21 36.83) (xy 156.21 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bb7e5ff-7b48-48fa-a5d2-87ee8027757a")
+	)
+	(wire
+		(pts
+			(xy 146.05 138.43) (xy 146.05 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cb0d0d1-c982-4b92-b4b0-c91816e42ad1")
+	)
+	(wire
+		(pts
+			(xy 290.83 167.64) (xy 290.83 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dc2b33d-fb04-4da8-965c-68ed94cfaa43")
+	)
+	(wire
+		(pts
+			(xy 229.87 186.69) (xy 246.38 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e1e49f5-e8d7-48dc-b328-e42d85e6331a")
+	)
+	(wire
+		(pts
+			(xy 241.3 181.61) (xy 241.3 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fbb87c8-1a4e-4d4d-b159-5904921f27ef")
+	)
+	(wire
+		(pts
+			(xy 198.12 254) (xy 198.12 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53cee702-13ba-4469-b521-89924b06f5a8")
+	)
+	(wire
+		(pts
+			(xy 90.17 251.46) (xy 90.17 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58cf40c5-17d3-4d44-a3f7-8d0b96347441")
+	)
+	(wire
+		(pts
+			(xy 246.38 186.69) (xy 262.89 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a287bd2-8726-433a-b83a-01638bfb659a")
+	)
+	(wire
+		(pts
+			(xy 143.51 156.21) (xy 143.51 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a363f15-289e-4a5f-bc49-c607091f6beb")
+	)
+	(wire
+		(pts
+			(xy 274.32 181.61) (xy 274.32 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e43c873-b0c0-4ff7-b7b8-333b2800c761")
+	)
+	(wire
+		(pts
+			(xy 181.61 138.43) (xy 181.61 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61e6fb8a-2cc1-43f2-a59f-66d2c3cf2dc6")
+	)
+	(wire
+		(pts
+			(xy 321.31 90.17) (xy 321.31 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6255de2c-b944-40a0-a858-40ffa55fad2a")
+	)
+	(wire
+		(pts
+			(xy 171.45 100.33) (xy 274.32 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64b3f0be-8fdd-4aaa-baaf-60114a8aac75")
+	)
+	(wire
+		(pts
+			(xy 153.67 170.18) (xy 153.67 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65a47cf4-82b6-4709-a1c2-b40fe871962b")
+	)
+	(wire
+		(pts
+			(xy 168.91 138.43) (xy 168.91 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67d681dc-e70a-4d9c-b6e0-5ef49fc4406d")
+	)
+	(wire
+		(pts
+			(xy 313.69 54.61) (xy 161.29 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6893d171-ae2a-4e71-ab1e-be56f2331552")
+	)
+	(wire
+		(pts
+			(xy 290.83 181.61) (xy 290.83 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68b751be-7e94-4da8-a893-b6ad506bafdc")
+	)
+	(wire
+		(pts
+			(xy 257.81 153.67) (xy 257.81 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6abf38ae-5878-4132-b839-0657cb9a8ba1")
+	)
+	(wire
+		(pts
+			(xy 279.4 200.66) (xy 295.91 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cc35b2c-1ce7-4582-93e3-0d8abdc8eb4f")
+	)
+	(wire
+		(pts
+			(xy 130.81 135.89) (xy 97.79 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fb54009-bd44-4ea2-970b-1432676fac9a")
+	)
+	(wire
+		(pts
+			(xy 153.67 175.26) (xy 158.75 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "702381e3-4b8e-4567-93bf-b9fb762e0c8b")
+	)
+	(wire
+		(pts
+			(xy 133.35 125.73) (xy 133.35 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75333c8f-a62f-4ff2-bb8f-8338909b289c")
+	)
+	(wire
+		(pts
+			(xy 262.89 214.63) (xy 279.4 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75835fed-5119-491b-b986-453c544e7691")
+	)
+	(wire
+		(pts
+			(xy 181.61 130.81) (xy 313.69 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76fbf28c-8e01-4d11-886f-7b301be0aff2")
+	)
+	(wire
+		(pts
+			(xy 95.25 243.84) (xy 134.62 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78922b19-7da0-49c3-8a64-9bd2c7928f66")
+	)
+	(wire
+		(pts
+			(xy 171.45 214.63) (xy 229.87 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b26a40e-d38e-4d34-a58a-9d3fa560be2f")
+	)
+	(wire
+		(pts
+			(xy 153.67 162.56) (xy 153.67 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7de1f0ff-0fa9-4b54-9e85-ffda2a8455f5")
+	)
+	(wire
+		(pts
+			(xy 151.13 138.43) (xy 151.13 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e994c4d-ace8-4033-8afd-6964fb1cee1c")
+	)
+	(wire
+		(pts
+			(xy 97.79 115.57) (xy 135.89 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7efb7783-a0af-463f-8bf1-02ba6c91b85b")
+	)
+	(wire
+		(pts
+			(xy 158.75 156.21) (xy 158.75 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80b8ef35-3d51-46a7-b2c1-268fe5cc091e")
+	)
+	(wire
+		(pts
+			(xy 321.31 54.61) (xy 321.31 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8281371e-f42a-4a5f-92c1-fd8a29614459")
+	)
+	(wire
+		(pts
+			(xy 168.91 110.49) (xy 290.83 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "838eba8a-dbc7-4ac2-98d3-f5f30e64c2de")
+	)
+	(wire
+		(pts
+			(xy 161.29 54.61) (xy 161.29 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8476447f-42d5-42e6-a59b-2a984a3cf1b8")
+	)
+	(wire
+		(pts
+			(xy 241.3 167.64) (xy 241.3 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84865d78-f3eb-4992-ab30-6c60ffa5b479")
+	)
+	(wire
+		(pts
+			(xy 148.59 170.18) (xy 148.59 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "854e25fd-944e-4754-8d68-cc9161403a43")
+	)
+	(wire
+		(pts
+			(xy 246.38 172.72) (xy 262.89 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8808569c-36ae-42cb-adf3-b8e63f014b20")
+	)
+	(wire
+		(pts
+			(xy 138.43 160.02) (xy 143.51 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "889f874e-2202-4e8a-8274-ae47654fe5e0")
+	)
+	(wire
+		(pts
+			(xy 262.89 172.72) (xy 279.4 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "894a4057-a0a8-4bc8-b368-c44609be1f18")
+	)
+	(wire
+		(pts
+			(xy 262.89 186.69) (xy 279.4 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a39681a-3edb-4601-b7d0-138a19d1f6fc")
+	)
+	(wire
+		(pts
+			(xy 257.81 90.17) (xy 313.69 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ded9d93-7de5-4dab-bfbe-f3ea8834dd01")
+	)
+	(wire
+		(pts
+			(xy 97.79 95.25) (xy 140.97 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8eb5e7c2-bc8b-4665-84f9-a9e2e4927b55")
+	)
+	(wire
+		(pts
+			(xy 143.51 233.68) (xy 187.96 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a1e5bd3-19ce-4890-b151-f389d7ff4eba")
+	)
+	(wire
+		(pts
+			(xy 179.07 72.39) (xy 179.07 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b1398a0-322b-4ce2-a225-6e18a4c88a11")
+	)
+	(wire
+		(pts
+			(xy 97.79 64.77) (xy 148.59 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b1b94ab-54f2-49ea-834a-9e152d302758")
+	)
+	(wire
+		(pts
+			(xy 181.61 156.21) (xy 181.61 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d112899-ac7c-413d-abbc-7bab236d5784")
+	)
+	(wire
+		(pts
+			(xy 274.32 100.33) (xy 274.32 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a03a7f0d-8e46-44e3-8794-67d902cfef80")
+	)
+	(wire
+		(pts
+			(xy 224.79 167.64) (xy 224.79 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a354fd88-a207-4be1-85a7-20375dcac852")
+	)
+	(wire
+		(pts
+			(xy 224.79 72.39) (xy 179.07 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a50de69c-46d7-4cd1-8bb4-2da5e075539c")
+	)
+	(wire
+		(pts
+			(xy 262.89 158.75) (xy 279.4 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8186d03-d5c3-4ad3-b7d8-ebc055a93ec3")
+	)
+	(wire
+		(pts
+			(xy 162.56 185.42) (xy 168.91 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a83a2f66-b6de-4fba-bd90-83b246b34caf")
+	)
+	(wire
+		(pts
+			(xy 144.78 254) (xy 198.12 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9b62e2b-e44e-47f6-9e10-3e91942a1204")
+	)
+	(wire
+		(pts
+			(xy 143.51 85.09) (xy 143.51 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae26d33a-1e18-44c0-a1ae-d7c6e5c31408")
+	)
+	(wire
+		(pts
+			(xy 173.99 200.66) (xy 229.87 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aec7a0a9-4754-444f-acdb-14542d0f3fdb")
+	)
+	(wire
+		(pts
+			(xy 241.3 195.58) (xy 241.3 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af963a77-3765-4e71-9dbd-b6a5245050ab")
+	)
+	(wire
+		(pts
+			(xy 274.32 100.33) (xy 313.69 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0e16428-ed49-44c9-9779-bbb19d4dcb0b")
+	)
+	(wire
+		(pts
+			(xy 274.32 167.64) (xy 274.32 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2ac3145-253d-444e-9cd4-9030e0610b84")
+	)
+	(wire
+		(pts
+			(xy 97.79 125.73) (xy 133.35 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2c3edc1-975d-4335-9740-9dbc0a1743f6")
+	)
+	(wire
+		(pts
+			(xy 138.43 105.41) (xy 138.43 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b328661e-31af-4636-a4b7-31877f1f3595")
+	)
+	(wire
+		(pts
+			(xy 257.81 195.58) (xy 257.81 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8b3a424-6156-43b0-9e63-4ba0ce7a2bf9")
+	)
+	(wire
+		(pts
+			(xy 151.13 54.61) (xy 97.79 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9b89809-7846-4ac7-87f8-8dd5495a151b")
+	)
+	(wire
+		(pts
+			(xy 224.79 195.58) (xy 224.79 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be92cb2c-1a51-41d4-a024-d848948b4145")
+	)
+	(wire
+		(pts
+			(xy 146.05 74.93) (xy 97.79 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c17d1c1f-4a97-449f-8796-743b356237b2")
+	)
+	(wire
+		(pts
+			(xy 290.83 195.58) (xy 290.83 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1911606-af50-411e-a813-055b8d30bbcb")
+	)
+	(wire
+		(pts
+			(xy 321.31 81.28) (xy 321.31 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1e1f01a-b05a-4bf4-bf30-e4f3a1c3677e")
+	)
+	(wire
+		(pts
+			(xy 144.78 243.84) (xy 144.78 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1f92990-b560-42d9-86fa-e5214cb7e4ef")
+	)
+	(wire
+		(pts
+			(xy 313.69 36.83) (xy 156.21 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2610fef-ea99-4a73-8f6d-bcb9d39cf6bd")
+	)
+	(wire
+		(pts
+			(xy 130.81 138.43) (xy 130.81 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5dc7822-db80-4f0c-9f9f-7570ae126e3b")
+	)
+	(wire
+		(pts
+			(xy 274.32 195.58) (xy 274.32 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6a31cdc-db98-40eb-9c57-91574fb6c2df")
+	)
+	(wire
+		(pts
+			(xy 279.4 158.75) (xy 295.91 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9c070f7-eb43-4920-ab5f-168f509e6572")
+	)
+	(wire
+		(pts
+			(xy 229.87 200.66) (xy 246.38 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd3c3ddd-9288-4aa3-80a4-66b49a90637c")
+	)
+	(wire
+		(pts
+			(xy 229.87 158.75) (xy 246.38 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cde0264a-5ad7-417b-babd-5b8bcc48a155")
+	)
+	(wire
+		(pts
+			(xy 279.4 186.69) (xy 295.91 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cea2ef1e-6b7b-431e-aff1-2076e393cd29")
+	)
+	(wire
+		(pts
+			(xy 140.97 175.26) (xy 148.59 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf3f27ab-3a99-455a-a430-970bcd1dd770")
+	)
+	(wire
+		(pts
+			(xy 246.38 214.63) (xy 262.89 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2863167-619a-4382-8ce6-8f093e003ff0")
+	)
+	(wire
+		(pts
+			(xy 140.97 95.25) (xy 140.97 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2d7b039-f5ad-4c93-a57e-76158af52c4f")
+	)
+	(wire
+		(pts
+			(xy 135.89 115.57) (xy 135.89 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5ce828d-1cf3-4b36-b116-449a81c22ab2")
+	)
+	(wire
+		(pts
+			(xy 171.45 138.43) (xy 171.45 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6659ea6-fc42-4145-bc5c-ea40ecb53e58")
+	)
+	(wire
+		(pts
+			(xy 171.45 156.21) (xy 171.45 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d68c798d-bbde-4e79-9e18-c48dad9ab8af")
+	)
+	(wire
+		(pts
+			(xy 168.91 156.21) (xy 168.91 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8031f1c-b75e-4bba-9ac5-9dedd0606ed7")
+	)
+	(wire
+		(pts
+			(xy 321.31 27.94) (xy 321.31 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d80b3000-9ca0-4cd6-8a81-2dd5285e72aa")
+	)
+	(wire
+		(pts
+			(xy 224.79 72.39) (xy 224.79 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da3673ab-e4ce-4c47-a459-8e7b66d34773")
+	)
+	(wire
+		(pts
+			(xy 158.75 175.26) (xy 161.29 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dddb6b5b-621f-4ff9-a5e8-3e6f75487ca4")
+	)
+	(wire
+		(pts
+			(xy 166.37 138.43) (xy 166.37 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e02df936-1806-478b-a656-09dc644a0a79")
+	)
+	(wire
+		(pts
+			(xy 321.31 63.5) (xy 321.31 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1e2f220-451e-4baf-b700-f757affc29ad")
+	)
+	(wire
+		(pts
+			(xy 321.31 100.33) (xy 321.31 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2911250-f6cc-4b40-ab30-3362e42fb991")
+	)
+	(wire
+		(pts
+			(xy 313.69 72.39) (xy 224.79 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6511572-960a-4f13-952e-a5993c7c03cc")
+	)
+	(wire
+		(pts
+			(xy 95.25 252.73) (xy 95.25 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9a58367-a675-4dac-be2c-71f71b0c727e")
+	)
+	(wire
+		(pts
+			(xy 163.83 63.5) (xy 313.69 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9e37d4e-49b5-483d-b821-05d2af4d1d2b")
+	)
+	(wire
+		(pts
+			(xy 321.31 72.39) (xy 321.31 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea5e73da-e70a-487a-91df-2674c7d134d4")
+	)
+	(wire
+		(pts
+			(xy 168.91 185.42) (xy 168.91 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebe22fbc-08f6-4a89-afb8-cb8e471f42e0")
+	)
+	(wire
+		(pts
+			(xy 176.53 156.21) (xy 176.53 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2484e83-8c50-472b-88c8-8b5464c4d494")
+	)
+	(wire
+		(pts
+			(xy 279.4 214.63) (xy 295.91 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3edc0d3-c95a-4338-b9a9-209b16fe5367")
+	)
+	(wire
+		(pts
+			(xy 262.89 200.66) (xy 279.4 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9bb0892-f5a1-4bfd-9436-c1ab7926201c")
+	)
+	(wire
+		(pts
+			(xy 229.87 214.63) (xy 246.38 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe0478a9-d109-4db6-9ded-d645705ac050")
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 243.84 170.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0066c3ec-7b97-4f41-ac1e-5e00bb1f7414")
+		(property "Reference" "SW7"
+			(at 243.84 162.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "8"
+			(at 243.84 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 243.84 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8f75d80e-2f14-434c-8b52-3262dbddbdf5")
+		)
+		(pin "1"
+			(uuid "a8232331-f013-45dc-a01d-3d74386137fd")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 293.37 156.21 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "06215c7f-de47-401b-a6ac-a358aa1bdf34")
+		(property "Reference" "SW5"
+			(at 293.37 148.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "arc"
+			(at 293.37 151.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 293.37 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 293.37 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6e08f3f7-71e9-40b0-81d7-7cce63ede255")
+		)
+		(pin "1"
+			(uuid "617053fa-8290-4f58-a09b-6f37fcf74118")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 45.72 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "13e90a3a-5219-4d22-923b-443cbe9476be")
+		(property "Reference" "R17"
+			(at 317.5 39.37 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 41.91 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 47.498 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1b7535f7-4838-44d9-8883-c496beb7c42b")
+		)
+		(pin "1"
+			(uuid "519b71b6-0e05-48be-9475-475440f9abaf")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 135.89 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "18d26a48-6110-4186-a722-f12af672226c")
+		(property "Reference" "R10"
+			(at 93.98 129.54 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300KΩ"
+			(at 93.98 132.08 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 137.668 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b309bb8c-f01d-4c1a-abd7-bf2d128fe1a3")
+		)
+		(pin "1"
+			(uuid "5796d5c3-34e3-4c7c-87a5-b8106e3619d9")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 90.17 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "19d7b253-628d-47a3-8cc8-3229a2b0a7c7")
+		(property "Reference" "R22"
+			(at 317.5 83.82 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 86.36 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 91.948 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "385c6bc6-1bcf-43c2-b950-7a49d0f7bb49")
+		)
+		(pin "1"
+			(uuid "58bdf251-85ef-41af-8c43-e7dc66ae8ee2")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 293.37 212.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "23ed6e75-b1d7-4893-a755-65002358ab61")
+		(property "Reference" "SW25"
+			(at 293.37 204.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "-"
+			(at 293.37 207.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 293.37 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 293.37 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "60b81993-92b0-42f0-9576-aacc9887bf1b")
+		)
+		(pin "1"
+			(uuid "fa4eda87-88ea-4217-a669-4ba3b5fca6bd")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 115.57 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "261fa124-3ad5-498b-8754-8d0fcf33b4d1")
+		(property "Reference" "R8"
+			(at 93.98 109.22 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300KΩ"
+			(at 93.98 111.76 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 117.348 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d31ccb9e-2433-416f-9fed-4ed3f640ffc6")
+		)
+		(pin "1"
+			(uuid "dc12732b-8268-4f26-99f6-36348f07001e")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 95.25 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "278a6eea-4508-4e26-9df1-ad7514de5c25")
+		(property "Reference" "R6"
+			(at 93.98 88.9 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300KΩ"
+			(at 93.98 91.44 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 97.028 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "30f587a4-2fb2-4dcf-afdf-789f0046ce9a")
+		)
+		(pin "1"
+			(uuid "805e32d1-d5b0-4f70-8a42-6f607e590194")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 54.61 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "289aeb93-9795-43ef-bc8d-793c85ecc68f")
+		(property "Reference" "R18"
+			(at 317.5 48.26 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 50.8 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 56.388 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7e8537d5-c999-4497-a2d9-9ec179b6892c")
+		)
+		(pin "1"
+			(uuid "3e5e7822-d81e-48e6-9928-564e672a607a")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 64.77 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4100f9af-390d-42b5-adb8-847be67dd5d4")
+		(property "Reference" "R3"
+			(at 93.98 58.42 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300KΩ"
+			(at 93.98 60.96 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 66.548 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b2a3dc39-c74c-4dd0-b012-2e1afe084849")
+		)
+		(pin "1"
+			(uuid "df2f7ec8-b4d4-4e9f-9f0f-b9c5463695e6")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 72.39 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42a6bb9e-a64a-4ab0-9556-e5b3c0b7524e")
+		(property "Reference" "R20"
+			(at 317.5 66.04 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 68.58 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 74.168 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ce95a7b4-a9f6-44cd-b3d0-c14dd2af7d7f")
+		)
+		(pin "1"
+			(uuid "0db61cfb-dacb-4931-bd0e-f4d231af6ade")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 293.37 184.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c02f325-34dc-4310-8e2c-915781fe7f01")
+		(property "Reference" "SW15"
+			(at 293.37 176.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "<->"
+			(at 293.37 179.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 293.37 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 293.37 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "796e3bd2-a239-4fce-8a11-5999d42e9c70")
+		)
+		(pin "1"
+			(uuid "5f39a0d8-774a-432e-9c44-49bb5c9788dc")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 293.37 170.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4dd844d6-0388-46df-aca8-0ffa75d2d3e5")
+		(property "Reference" "SW10"
+			(at 293.37 162.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ")]"
+			(at 293.37 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 293.37 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 293.37 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fbe6db63-abf8-4136-9aca-9b3080de38db")
+		)
+		(pin "1"
+			(uuid "53044fc2-5a6a-41bf-9e45-2a99b056b742")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 260.35 212.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f1c4c97-5f2e-4fbb-8325-8be045d435dd")
+		(property "Reference" "SW23"
+			(at 260.35 204.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "π"
+			(at 260.35 207.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 260.35 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 260.35 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "40d648b2-1bca-42fc-a0c8-7851ae76a105")
+		)
+		(pin "1"
+			(uuid "7f1db42a-aa93-4cb0-b60e-99b39c4bb141")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 130.81 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f4f90c5-a9ca-417e-b593-fee5395f7da0")
+		(property "Reference" "R26"
+			(at 317.5 124.46 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 127 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 132.588 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "727574ec-bece-4be3-962a-2b6a380dc9dd")
+		)
+		(pin "1"
+			(uuid "5a0e334f-7575-431a-ba95-5bbfaa0232af")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 125.73 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53dc63de-8176-4b4b-9fc4-4f6a0c11db8b")
+		(property "Reference" "R9"
+			(at 93.98 119.38 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300KΩ"
+			(at 93.98 121.92 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 127.508 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f9c09496-753e-4833-bb63-a293396a4163")
+		)
+		(pin "1"
+			(uuid "d8a19d58-d289-48be-9e07-0b19b6e5cd85")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 293.37 198.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "593ecd55-6574-47d6-8c14-212277ba94c0")
+		(property "Reference" "SW20"
+			(at 293.37 190.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "÷"
+			(at 293.37 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 293.37 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 293.37 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 293.37 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5424516e-82c6-45e3-81ad-b8b55f50c352")
+		)
+		(pin "1"
+			(uuid "ee6293fa-dc67-482a-891d-fa71acf5866a")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 153.67 166.37 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "606f556d-8896-4cf3-a79d-d8ea6e0d7e9a")
+		(property "Reference" "R13"
+			(at 154.94 162.052 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "150-270Ω"
+			(at 151.638 169.672 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 155.448 166.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 153.67 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3e49bda8-a831-4a9a-9af6-0ddef72e6e97")
+		)
+		(pin "1"
+			(uuid "0b1bebce-d735-46fe-b490-a2d400495034")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 227.33 156.21 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "60e22211-5d32-471a-b1da-601d2080d863")
+		(property "Reference" "SW1"
+			(at 227.33 148.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C"
+			(at 227.33 151.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 227.33 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2e56c2f1-8f36-45cd-aa0a-1fdf3bdead04")
+		)
+		(pin "1"
+			(uuid "0484b7b2-7561-4ca4-8226-59a32b5eedd0")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 276.86 198.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62ff2e88-b207-4f48-9c23-23323de96f87")
+		(property "Reference" "SW19"
+			(at 276.86 190.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "X"
+			(at 276.86 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 276.86 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c0bd1166-0af1-4098-b28a-8d076df9336a")
+		)
+		(pin "1"
+			(uuid "227abc02-a46c-4c54-afcd-96343df37b18")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 85.09 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "637a15aa-5aca-4016-bb37-dad1c79b7db9")
+		(property "Reference" "R5"
+			(at 93.98 78.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300KΩ"
+			(at 93.98 81.28 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 86.868 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1df789b4-740e-4109-94ce-85dba247d7dc")
+		)
+		(pin "1"
+			(uuid "457962a3-b527-4115-a950-d39f99a03a9f")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 165.1 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "66d27ece-254d-4d9c-9356-1cfd41d37d29")
+		(property "Reference" "R14"
+			(at 165.1 168.91 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 165.1 171.45 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 177.038 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 165.1 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ca6af3da-6eb6-41fc-b734-883df4388694")
+		)
+		(pin "1"
+			(uuid "4490df89-01b7-4b9d-9658-2c3811773055")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Clueless_Engineer:K145IP15")
+		(at 156.21 146.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a5a3f82-376e-416f-89cb-d8d5e9bac5eb")
+		(property "Reference" "U1"
+			(at 127 146.0499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "К145ИП15"
+			(at 127 148.5899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 156.21 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 156.21 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "15"
+			(uuid "a43d2fdd-6395-4f0a-a130-a372fa1b66cf")
+		)
+		(pin "17"
+			(uuid "98b32760-1098-452c-a6a9-f739232f5393")
+		)
+		(pin "26"
+			(uuid "6b19037c-7239-4021-a100-9305e8990877")
+		)
+		(pin "23"
+			(uuid "9583c75c-641b-4d74-a4f0-71f0e5ae852a")
+		)
+		(pin "24"
+			(uuid "901c7685-5fd0-4009-b5d2-9c4ec0075a23")
+		)
+		(pin "27"
+			(uuid "22357fe7-2f02-4b14-8203-6b8489b36925")
+		)
+		(pin "28"
+			(uuid "3eadd466-155c-4b98-a306-e1eb92f9d3a2")
+		)
+		(pin "29"
+			(uuid "b904c8c6-1f9e-44bb-9439-50d0414d1c96")
+		)
+		(pin "30"
+			(uuid "5f091808-4975-46a6-8a34-1417f39fe325")
+		)
+		(pin "31"
+			(uuid "546f289a-6e77-4c88-9371-34fc81272352")
+		)
+		(pin "36"
+			(uuid "6ca58f3c-581a-4117-aa6d-d46dd5791ef7")
+		)
+		(pin "37"
+			(uuid "175b77fd-8447-463b-89af-b4f9ef497ea2")
+		)
+		(pin "32"
+			(uuid "22d18687-d1af-4383-ae4a-d906be3bafbc")
+		)
+		(pin "33"
+			(uuid "ea14258c-4839-4545-90d2-6449f13673a0")
+		)
+		(pin "38"
+			(uuid "930da120-907f-4c60-b60e-631b810502d5")
+		)
+		(pin "34"
+			(uuid "04ef555f-3c47-4985-86f6-96cf82bace04")
+		)
+		(pin "39"
+			(uuid "f074946b-2228-4c38-b64f-f714b21501cf")
+		)
+		(pin "35"
+			(uuid "7e07cf9b-75e4-44e8-bba0-c3e811f6763f")
+		)
+		(pin "40"
+			(uuid "a32d966b-cd7f-4cb9-a1d1-0d054bd3577e")
+		)
+		(pin "25"
+			(uuid "15d83664-a383-44fa-b1df-552a22dc4c95")
+		)
+		(pin "20"
+			(uuid "b20ac3a5-82d1-4ef2-aa70-390c0cb3682b")
+		)
+		(pin "19"
+			(uuid "36326e94-452f-4820-95ff-0264fb0c80dd")
+		)
+		(pin "21"
+			(uuid "ce64271e-356c-4d78-a80a-57ad5fcbab5d")
+		)
+		(pin "22"
+			(uuid "0e6bf79a-3000-4541-b563-01c2ff2042df")
+		)
+		(pin "11"
+			(uuid "6a8d959b-9c8e-45ce-ab50-2a6f85ffabfd")
+		)
+		(pin "14"
+			(uuid "effab39a-5892-4d6d-bd8d-eb251936ee0d")
+		)
+		(pin "1"
+			(uuid "39937464-fa06-4577-8541-58dc651de366")
+		)
+		(pin "5"
+			(uuid "635e91be-0a6b-48da-8630-2c98e7b8db14")
+		)
+		(pin "6"
+			(uuid "32fdd819-f1f9-4dbf-8142-32683e6dd0bd")
+		)
+		(pin "7"
+			(uuid "7c31395c-a833-46d8-9693-d60e8af69080")
+		)
+		(pin "8"
+			(uuid "70da753c-dd3b-4ef0-8722-462de9ab4627")
+		)
+		(pin "9"
+			(uuid "28a0da7c-77fe-48ab-bb27-4cfff82e6a23")
+		)
+		(pin "10"
+			(uuid "164b1895-b0fe-4f01-b781-36f6159cc17b")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Clueless_Engineer:PN-1")
+		(at 77.47 250.19 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b419363-3214-424f-bab9-3519ecc873a2")
+		(property "Reference" "U2"
+			(at 80.01 267.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ПН-1"
+			(at 80.01 270.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "VFD Power Supply"
+			(at 77.47 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "46771141-c9bd-43bb-a872-f336358ce20a")
+		)
+		(pin "3"
+			(uuid "ef73e285-1c7e-455e-adad-88a7e265b97d")
+		)
+		(pin "2"
+			(uuid "fd07fd4b-a831-428a-9883-45982c5ba803")
+		)
+		(pin "5"
+			(uuid "63f221bc-85c9-4a6a-9ad0-bb5fb80a4f00")
+		)
+		(pin "1"
+			(uuid "46f05101-545d-4d69-a60e-8bc02e1e6a43")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 276.86 170.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77005dd8-29aa-4ef7-b09f-13fb87f31a03")
+		(property "Reference" "SW9"
+			(at 276.86 162.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "[("
+			(at 276.86 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 276.86 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c97ae2c3-4a02-4a12-82c0-32552acb0b96")
+		)
+		(pin "1"
+			(uuid "4ee2942e-e507-420e-a62e-98676129ae38")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 276.86 156.21 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "78e422aa-833c-43ec-b9d8-a08d1d328992")
+		(property "Reference" "SW4"
+			(at 276.86 148.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "F"
+			(at 276.86 151.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 276.86 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "491fed62-fe3d-405d-8bb8-3f9385aba305")
+		)
+		(pin "1"
+			(uuid "61d5e6dc-f8b8-415f-8bab-52dd70bb32d3")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 227.33 198.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7b19b498-975a-48d1-8cb5-8fd2a9fa8bb3")
+		(property "Reference" "SW16"
+			(at 227.33 190.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1"
+			(at 227.33 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 227.33 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "404caa50-963a-4349-acbe-467392a4b5ee")
+		)
+		(pin "1"
+			(uuid "7778987d-23c7-4f88-bea2-9b41d195dec5")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 260.35 184.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7b21dfa2-e211-4475-87f7-5c240505b080")
+		(property "Reference" "SW13"
+			(at 260.35 176.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "6"
+			(at 260.35 179.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 260.35 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 260.35 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0c1f3058-c6bd-46c4-8261-7e79b7e1c498")
+		)
+		(pin "1"
+			(uuid "360cf0cd-a8ba-4544-be0c-b7c442aba93a")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 166.37 214.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bdb959d-be7b-4977-8aad-e4d3c61306d3")
+		(property "Reference" "SW26"
+			(at 166.37 208.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Г Р"
+			(at 166.37 210.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 166.37 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 166.37 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "24df0dcc-aec0-4591-9cfd-83046910c536")
+		)
+		(pin "2"
+			(uuid "b9abae7b-47a1-4dab-b320-5e4aed36b9d5")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 137.16 175.26 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7db250de-929f-4c4a-8edc-7ba1f1291841")
+		(property "Reference" "R12"
+			(at 137.16 168.91 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1.2KΩ"
+			(at 137.16 171.45 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 177.038 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 137.16 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a2f57e13-9143-40d9-a98d-e3f127c954e1")
+		)
+		(pin "1"
+			(uuid "50749c77-bfbe-4688-91ee-5209cdebd682")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 227.33 212.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8333db1c-f593-485b-a103-87d547350667")
+		(property "Reference" "SW21"
+			(at 227.33 204.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 227.33 207.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 227.33 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "027c24eb-eaf7-47fc-be39-5409f8403b00")
+		)
+		(pin "1"
+			(uuid "44aa75e7-0e71-461b-a041-b024fa91214b")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 243.84 184.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8db806c4-248b-45a4-9c72-a08baa495741")
+		(property "Reference" "SW12"
+			(at 243.84 176.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5"
+			(at 243.84 179.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 243.84 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ea6df5dc-9f72-400d-a884-bd54b0f59fb8")
+		)
+		(pin "1"
+			(uuid "3c96b0f7-4cec-4943-8ab2-6f7748d758f6")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 148.59 166.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "923cc02b-a44c-4027-8bda-32690f12a5f7")
+		(property "Reference" "C1"
+			(at 145.288 164.338 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47nF"
+			(at 147.32 172.466 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.5552 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 148.59 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "812c14a4-8ca8-4cda-8d92-5c8a17217098")
+		)
+		(pin "1"
+			(uuid "f6c4e6ec-0e91-4afc-b1a4-2039c6d5f51c")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 27.94 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "95f66787-fedc-4f5a-991b-6a5c11640c3e")
+		(property "Reference" "R15"
+			(at 317.5 21.59 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 24.13 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 29.718 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "95090bb8-19ef-466f-9ee7-49fe4bca4253")
+		)
+		(pin "1"
+			(uuid "c5542d18-210e-4754-8698-9d21edfe09b7")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 36.83 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "99583a5e-4c4e-482a-9743-2f8c516c3223")
+		(property "Reference" "R16"
+			(at 317.5 30.48 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 33.02 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 38.608 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dd6bf001-4198-4954-8d47-9a4c32effdbc")
+		)
+		(pin "1"
+			(uuid "cddbcb10-90d8-4007-888a-08bbb50d57b1")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 243.84 198.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a03b547-ded8-4b5d-b66a-e20f4d2a0e6d")
+		(property "Reference" "SW17"
+			(at 243.84 190.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2"
+			(at 243.84 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 243.84 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "919b3723-a07c-4df8-8ee7-92ef3d8edf04")
+		)
+		(pin "1"
+			(uuid "c2dd7614-dbb2-41ee-bef5-c5248bcd6e10")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 110.49 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a34a1ade-cb15-4ace-8ce8-948162c46c41")
+		(property "Reference" "R24"
+			(at 317.5 104.14 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 106.68 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 112.268 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1cc1c155-e02a-4d37-a1d1-ca1c165c391b")
+		)
+		(pin "1"
+			(uuid "33365b46-9013-4462-a7bd-ab5ab623a4fe")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 81.28 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a617b46b-67e6-4be9-94db-2efa64834e0d")
+		(property "Reference" "R21"
+			(at 317.5 74.93 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 77.47 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 83.058 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f7cac79a-bc3c-438f-bbde-448d02aff7ed")
+		)
+		(pin "1"
+			(uuid "ee66d764-b7b0-4c4c-a0d4-b0c8513b0b60")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 227.33 170.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9b62f3a-648a-4b8c-88ec-a63224e9ccef")
+		(property "Reference" "SW6"
+			(at 227.33 162.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "7"
+			(at 227.33 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 227.33 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3d7ea84c-e4a9-4be6-906c-b60461191a4a")
+		)
+		(pin "1"
+			(uuid "04f3fce3-ae06-4426-ac5c-eb6b83419e88")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 158.75 185.42 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ab37e862-9166-4092-a780-d23f7c54b11e")
+		(property "Reference" "C2"
+			(at 157.861 177.8 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1µF"
+			(at 157.861 180.34 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 184.4548 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 158.75 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5a71d382-f910-45d3-b43c-b13d52d02f3f")
+		)
+		(pin "2"
+			(uuid "3704f696-8bd6-4083-8f08-d9ccfa637e4f")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 260.35 198.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "acaf720b-6969-49f8-8a9a-49009044031c")
+		(property "Reference" "SW18"
+			(at 260.35 190.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "3"
+			(at 260.35 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 260.35 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 260.35 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "db9bdf9a-0935-4609-b65f-d19c81649d42")
+		)
+		(pin "1"
+			(uuid "8fbd4b5b-ea37-4fde-a7e3-f55690b7a688")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 260.35 170.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ae3d842e-623b-4f47-a74e-07783d77aa2a")
+		(property "Reference" "SW8"
+			(at 260.35 162.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "9"
+			(at 260.35 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 260.35 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 260.35 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c7d59d95-2f78-4202-9031-24ff89507d72")
+		)
+		(pin "1"
+			(uuid "fca9f489-06fa-4db0-a3c8-a25dbcc1a072")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 260.35 156.21 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af9bde4d-5253-49d2-8ee6-bbe787e2e729")
+		(property "Reference" "SW3"
+			(at 260.35 148.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "/-/"
+			(at 260.35 151.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 260.35 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 260.35 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "06c0a8d1-70b6-4134-ade6-fb81b5b205d3")
+		)
+		(pin "1"
+			(uuid "3ba213cc-f66f-4fab-9be0-5459eb5f48de")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Battery")
+		(at 139.7 243.84 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b822c508-6750-4f30-97c4-e7e2fdae0ca5")
+		(property "Reference" "BT1"
+			(at 140.2715 236.22 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "3xAA"
+			(at 140.2715 238.76 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 141.224 243.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 141.224 243.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Multiple-cell battery"
+			(at 139.7 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "V"
+			(at 139.7 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "DC"
+			(at 139.7 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=+ 2=-"
+			(at 139.7 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cad024fd-d1f4-49ee-b507-7e7033bf7fea")
+		)
+		(pin "2"
+			(uuid "24633691-9618-446d-815f-4861f1170262")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "BT1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 74.93 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bdc5a406-30b6-4aa4-ae97-5dab88a8194b")
+		(property "Reference" "R4"
+			(at 93.98 68.58 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300KΩ"
+			(at 93.98 71.12 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 76.708 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3f8d3f4d-b046-4795-8666-797acf0ff95c")
+		)
+		(pin "1"
+			(uuid "a00e644d-dfbf-4935-9c48-69ba20388e28")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 120.65 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c8cfbcab-1e72-4d66-a0fe-7c2dd452fdfe")
+		(property "Reference" "R25"
+			(at 317.5 114.3 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 116.84 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 122.428 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4c04551d-3670-439b-a0dc-e61174ca4118")
+		)
+		(pin "1"
+			(uuid "de5a2428-e5b7-4bb6-bd91-895f4ae1281a")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 243.84 212.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9b39fc8-ce72-40e3-951a-68dfb73369de")
+		(property "Reference" "SW22"
+			(at 243.84 204.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "."
+			(at 243.84 207.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 243.84 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4c21eeb5-ae78-47f1-925b-8dbd78de9ce2")
+		)
+		(pin "1"
+			(uuid "036f6c8e-b32a-4d3d-ac44-0b33be830c37")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 100.33 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0ebc728-02f7-4dd1-ab46-ab32c64bcf9e")
+		(property "Reference" "R23"
+			(at 317.5 93.98 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 96.52 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 102.108 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "53d9fc52-47f5-4d6b-b8bf-a3e4661bb431")
+		)
+		(pin "1"
+			(uuid "0072e684-e08e-47b3-bdb0-726c237bd052")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 54.61 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d1bf7664-a53c-4d96-9b9d-9ae4fcacc9cf")
+		(property "Reference" "R2"
+			(at 93.98 48.26 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300KΩ"
+			(at 93.98 50.8 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 56.388 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "95090bb8-19ef-466f-9ee7-49fe4bca4253")
+		)
+		(pin "1"
+			(uuid "c5542d18-210e-4754-8698-9d21edfe09b7")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 193.04 233.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd8beca2-0966-481c-9738-0d5d2e80c18d")
+		(property "Reference" "SW27"
+			(at 193.04 227.33 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "POWER"
+			(at 193.04 229.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 193.04 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bfc991a4-ce32-45a7-a08b-d11afcd36647")
+		)
+		(pin "2"
+			(uuid "f12978e4-25ce-4380-ac7b-d6b79b046fff")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 83.82 187.96 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e295e94c-8c98-46f8-b751-8ef023504ee1")
+		(property "Reference" "R11"
+			(at 83.82 181.61 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2KΩ"
+			(at 83.82 184.15 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 189.738 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 83.82 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1b19340e-cff5-41bf-8034-f71220843cdf")
+		)
+		(pin "1"
+			(uuid "82345438-c5b1-425d-920c-0fd2048ca195")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 317.5 63.5 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e962af4f-5ad4-4ebc-a163-e8f37615d920")
+		(property "Reference" "R19"
+			(at 317.5 57.15 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "180KΩ"
+			(at 317.5 59.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 65.278 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 317.5 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d307ecfa-3334-4ccb-b3ee-fa55d6128720")
+		)
+		(pin "1"
+			(uuid "0e601f06-74c7-4fa3-9c84-64a1911be981")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 227.33 184.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ec7bce97-bd27-4f1c-87ce-6c9474b81093")
+		(property "Reference" "SW11"
+			(at 227.33 176.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4"
+			(at 227.33 179.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 227.33 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "091c4bb2-2bc5-429c-91a2-13ecb9b5b968")
+		)
+		(pin "1"
+			(uuid "4fed2fab-c6e0-4077-84e3-a849c541ea13")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 276.86 184.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ee4e1d37-8ed6-45c8-af7c-d61ff7b1b7f8")
+		(property "Reference" "SW14"
+			(at 276.86 176.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "="
+			(at 276.86 179.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 276.86 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "66da5363-2abd-4a8b-8c6c-e5d678971e94")
+		)
+		(pin "1"
+			(uuid "de59bdd4-d2d0-466c-af10-32efb891f2f2")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 105.41 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f05be502-f011-48d1-890b-958bc458979c")
+		(property "Reference" "R7"
+			(at 93.98 99.06 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300KΩ"
+			(at 93.98 101.6 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 107.188 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "99eff794-9e7f-437f-9dc2-89a1a0bbbcfe")
+		)
+		(pin "1"
+			(uuid "834a6274-057e-4ce3-9d54-649ab572af2c")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 243.84 156.21 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6f1b53f-1903-4a9e-ad60-4c49a93a2a51")
+		(property "Reference" "SW2"
+			(at 243.84 148.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ВП"
+			(at 243.84 151.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 243.84 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "604afd8f-8d67-46c2-9f02-023e84e434ec")
+		)
+		(pin "1"
+			(uuid "7791bc67-2784-487c-9020-fe76e8d31fce")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 50.8 157.48 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9f347ca-863c-443d-8e12-1a49b957bd61")
+		(property "Reference" "R1"
+			(at 50.8 151.13 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 50.8 153.67 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 159.258 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 50.8 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "95090bb8-19ef-466f-9ee7-49fe4bca4253")
+		)
+		(pin "1"
+			(uuid "c5542d18-210e-4754-8698-9d21edfe09b7")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 276.86 212.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fc6b16fa-cd11-4f40-9ec5-7c3be6559106")
+		(property "Reference" "SW24"
+			(at 276.86 204.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+"
+			(at 276.86 207.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 276.86 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "902ffc5c-939e-42a6-a43b-0492cb58e479")
+		)
+		(pin "1"
+			(uuid "973da436-a900-49d1-99c8-862ebdf1af2b")
+		)
+		(instances
+			(project "Elektronika_MK-66"
+				(path "/d1327382-ad6e-41d9-87d5-65c5aa7b577e"
+					(reference "SW24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
