@@ -1,1 +1,4 @@
 .DS_Store
+/KiCad/Elektronika_MK-66/Elektronika_MK-66-backups
+*.kicad_prl
+*.lck
