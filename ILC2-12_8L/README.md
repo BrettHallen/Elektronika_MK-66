@@ -1,4 +1,4 @@
-# ИЛЦ2-12/8Л (ILC2-12/8L)
+# ИЛЦ2-12/8Л<br>ILC2-12/8L
 
 Vacuum fluorescent display used in the *Elektronika* **MK-35** and **MK-66 / MK-66A** microcalculators, driven directly by the К145ИП16Б / К145ИП15А calculator chip.
 
