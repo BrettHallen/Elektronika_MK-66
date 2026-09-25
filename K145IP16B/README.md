@@ -2,6 +2,8 @@
 
 Single-chip calculator LSI used in the Soviet *Elektronika* **MK-35** and **MK-66 / MK-66A** microcalculators. It contains the arithmetic unit, control logic, keyboard scanning and the display drivers, and works directly with the **ИЛЦ2-12/8Л** 12-position vacuum-fluorescent display.
 
+![Chip dimensions](/Documentation/KR145IP16B_dimensions.jpg)
+
 Display format: 12 positions = mantissa sign + 8 mantissa digits + exponent sign + 2 exponent digits.
 
 ---
