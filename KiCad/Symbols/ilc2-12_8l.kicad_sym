@@ -9,7 +9,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at -27.94 -7.62 90)
+			(at -78.74 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19,7 +19,7 @@
 			)
 		)
 		(property "Value" "ИЛЦ2-12/8Л"
-			(at 0 0 0)
+			(at 7.62 -25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -51,7 +51,7 @@
 			)
 		)
 		(property "Description" "VFD"
-			(at 0 0 0)
+			(at 7.62 -27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -63,9 +63,9 @@
 		)
 		(symbol "ILC2-12/8L_0_0"
 			(pin unspecified line
-				(at 5.08 -7.62 90)
+				(at -116.84 -38.1 90)
 				(length 2.54)
-				(name "1"
+				(name "-_(MAN)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -81,9 +81,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -7.62 90)
+				(at -111.76 -38.1 90)
 				(length 2.54)
-				(name "2"
+				(name "1P_(MAN)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -99,9 +99,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -7.62 90)
+				(at -106.68 -38.1 90)
 				(length 2.54)
-				(name "3"
+				(name "2P_(MAN)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -117,9 +117,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 -7.62 90)
+				(at -101.6 -38.1 90)
 				(length 2.54)
-				(name "4"
+				(name "3P_(MAN)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -135,9 +135,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -7.62 90)
+				(at -96.52 -38.1 90)
 				(length 2.54)
-				(name "5"
+				(name "4P_(MAN)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -153,9 +153,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 -7.62 90)
+				(at -91.44 -38.1 90)
 				(length 2.54)
-				(name "6"
+				(name "5P_(MAN)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -171,9 +171,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 20.32 -7.62 90)
+				(at 86.36 -38.1 90)
 				(length 2.54)
-				(name "7"
+				(name "6P_(MAN)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -189,9 +189,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 22.86 -7.62 90)
+				(at 91.44 -38.1 90)
 				(length 2.54)
-				(name "8"
+				(name "7P_(MAN)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -207,9 +207,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 25.4 -7.62 90)
+				(at 96.52 -38.1 90)
 				(length 2.54)
-				(name "9"
+				(name "8P_(MAN)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -225,9 +225,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 -7.62 90)
+				(at 101.6 -38.1 90)
 				(length 2.54)
-				(name "10"
+				(name "-_(EXP)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -243,9 +243,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -7.62 90)
+				(at 106.68 -38.1 90)
 				(length 2.54)
-				(name "11"
+				(name "1P_(EXP)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -261,9 +261,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -7.62 90)
+				(at 111.76 -38.1 90)
 				(length 2.54)
-				(name "12"
+				(name "2P_(EXP)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -279,9 +279,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 -7.62 90)
+				(at 111.76 22.86 270)
 				(length 2.54)
-				(name "13"
+				(name "CATHODE"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -297,9 +297,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 -7.62 90)
+				(at 106.68 22.86 270)
 				(length 2.54)
-				(name "14"
+				(name "и_(SEG)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -315,9 +315,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -25.4 -7.62 90)
+				(at 101.6 22.86 270)
 				(length 2.54)
-				(name "15"
+				(name "е_(SEG)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -333,9 +333,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 -7.62 90)
+				(at 96.52 22.86 270)
 				(length 2.54)
-				(name "16"
+				(name "в_(SEG)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -351,9 +351,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -22.86 -7.62 90)
+				(at 91.44 22.86 270)
 				(length 2.54)
-				(name "17"
+				(name "а_(SEG)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -369,9 +369,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -20.32 -7.62 90)
+				(at -96.52 22.86 270)
 				(length 2.54)
-				(name "18"
+				(name "б_(SEG)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -387,9 +387,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -10.16 -7.62 90)
+				(at -101.6 22.86 270)
 				(length 2.54)
-				(name "19"
+				(name "г_(SEG)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -405,9 +405,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -7.62 90)
+				(at -106.68 22.86 270)
 				(length 2.54)
-				(name "20"
+				(name "д_(SEG)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -423,9 +423,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -15.24 -7.62 90)
+				(at -111.76 22.86 270)
 				(length 2.54)
-				(name "21"
+				(name "ж_(SEG)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -441,9 +441,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 -7.62 90)
+				(at -116.84 22.86 270)
 				(length 2.54)
-				(name "22"
+				(name "CATHODE+SCREEN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -461,14 +461,1800 @@
 		)
 		(symbol "ILC2-12/8L_0_1"
 			(rectangle
-				(start -30.48 2.54)
-				(end 27.94 -5.08)
+				(start -127 20.32)
+				(end 119.38 -35.56)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
 					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -124.8156 -3.302) (xy -122.6312 -1.397) (xy -115.0112 -1.397) (xy -113.3856 -3.302) (xy -115.57 -5.207)
+					(xy -123.19 -5.207) (xy -124.8156 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -106.68 -15.24) (xy -104.521 -13.335) (xy -103.4288 -5.715) (xy -105.0798 -3.81) (xy -107.2388 -5.715)
+					(xy -108.331 -13.335) (xy -106.68 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -106.2482 -15.748) (xy -104.0638 -13.843) (xy -96.4438 -13.843) (xy -94.8182 -15.748) (xy -96.9772 -17.653)
+					(xy -104.5972 -17.653) (xy -106.2482 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -104.9274 -2.794) (xy -102.7684 -0.889) (xy -101.6762 6.731) (xy -103.3272 8.636) (xy -105.4862 6.731)
+					(xy -106.5784 -0.889) (xy -104.9274 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -104.4956 -3.302) (xy -102.3112 -1.397) (xy -94.6912 -1.397) (xy -93.0656 -3.302) (xy -95.25 -5.207)
+					(xy -102.87 -5.207) (xy -104.4956 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -102.743 9.144) (xy -100.584 11.049) (xy -92.964 11.049) (xy -91.313 9.144) (xy -93.4974 7.239)
+					(xy -101.1174 7.239) (xy -102.743 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -94.234 -15.24) (xy -92.075 -13.335) (xy -90.9828 -5.715) (xy -92.6338 -3.81) (xy -94.7928 -5.715)
+					(xy -95.885 -13.335) (xy -94.234 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -92.4814 -2.794) (xy -90.3224 -0.889) (xy -89.2302 6.731) (xy -90.8812 8.636) (xy -93.0402 6.731)
+					(xy -94.1324 -0.889) (xy -92.4814 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -90.6526 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -86.36 -15.24) (xy -84.201 -13.335) (xy -83.1088 -5.715) (xy -84.7598 -3.81) (xy -86.9188 -5.715)
+					(xy -88.011 -13.335) (xy -86.36 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -85.9282 -15.748) (xy -83.7438 -13.843) (xy -76.1238 -13.843) (xy -74.4982 -15.748) (xy -76.6572 -17.653)
+					(xy -84.2772 -17.653) (xy -85.9282 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -84.6074 -2.794) (xy -82.4484 -0.889) (xy -81.3562 6.731) (xy -83.0072 8.636) (xy -85.1662 6.731)
+					(xy -86.2584 -0.889) (xy -84.6074 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -84.1756 -3.302) (xy -81.9912 -1.397) (xy -74.3712 -1.397) (xy -72.7456 -3.302) (xy -74.93 -5.207)
+					(xy -82.55 -5.207) (xy -84.1756 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -82.423 9.144) (xy -80.264 11.049) (xy -72.644 11.049) (xy -70.993 9.144) (xy -73.1774 7.239)
+					(xy -80.7974 7.239) (xy -82.423 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -73.914 -15.24) (xy -71.755 -13.335) (xy -70.6628 -5.715) (xy -72.3138 -3.81) (xy -74.4728 -5.715)
+					(xy -75.565 -13.335) (xy -73.914 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -72.1614 -2.794) (xy -70.0024 -0.889) (xy -68.9102 6.731) (xy -70.5612 8.636) (xy -72.7202 6.731)
+					(xy -73.8124 -0.889) (xy -72.1614 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -70.3326 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -66.04 -15.24) (xy -63.881 -13.335) (xy -62.7888 -5.715) (xy -64.4398 -3.81) (xy -66.5988 -5.715)
+					(xy -67.691 -13.335) (xy -66.04 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -65.6082 -15.748) (xy -63.4238 -13.843) (xy -55.8038 -13.843) (xy -54.1782 -15.748) (xy -56.3372 -17.653)
+					(xy -63.9572 -17.653) (xy -65.6082 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -64.2874 -2.794) (xy -62.1284 -0.889) (xy -61.0362 6.731) (xy -62.6872 8.636) (xy -64.8462 6.731)
+					(xy -65.9384 -0.889) (xy -64.2874 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -63.8556 -3.302) (xy -61.6712 -1.397) (xy -54.0512 -1.397) (xy -52.4256 -3.302) (xy -54.61 -5.207)
+					(xy -62.23 -5.207) (xy -63.8556 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -62.103 9.144) (xy -59.944 11.049) (xy -52.324 11.049) (xy -50.673 9.144) (xy -52.8574 7.239)
+					(xy -60.4774 7.239) (xy -62.103 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -53.594 -15.24) (xy -51.435 -13.335) (xy -50.3428 -5.715) (xy -51.9938 -3.81) (xy -54.1528 -5.715)
+					(xy -55.245 -13.335) (xy -53.594 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -51.8414 -2.794) (xy -49.6824 -0.889) (xy -48.5902 6.731) (xy -50.2412 8.636) (xy -52.4002 6.731)
+					(xy -53.4924 -0.889) (xy -51.8414 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -50.0126 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -45.72 -15.24) (xy -43.561 -13.335) (xy -42.4688 -5.715) (xy -44.1198 -3.81) (xy -46.2788 -5.715)
+					(xy -47.371 -13.335) (xy -45.72 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -45.2882 -15.748) (xy -43.1038 -13.843) (xy -35.4838 -13.843) (xy -33.8582 -15.748) (xy -36.0172 -17.653)
+					(xy -43.6372 -17.653) (xy -45.2882 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -43.9674 -2.794) (xy -41.8084 -0.889) (xy -40.7162 6.731) (xy -42.3672 8.636) (xy -44.5262 6.731)
+					(xy -45.6184 -0.889) (xy -43.9674 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -43.5356 -3.302) (xy -41.3512 -1.397) (xy -33.7312 -1.397) (xy -32.1056 -3.302) (xy -34.29 -5.207)
+					(xy -41.91 -5.207) (xy -43.5356 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -41.783 9.144) (xy -39.624 11.049) (xy -32.004 11.049) (xy -30.353 9.144) (xy -32.5374 7.239)
+					(xy -40.1574 7.239) (xy -41.783 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -33.274 -15.24) (xy -31.115 -13.335) (xy -30.0228 -5.715) (xy -31.6738 -3.81) (xy -33.8328 -5.715)
+					(xy -34.925 -13.335) (xy -33.274 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -31.5214 -2.794) (xy -29.3624 -0.889) (xy -28.2702 6.731) (xy -29.9212 8.636) (xy -32.0802 6.731)
+					(xy -33.1724 -0.889) (xy -31.5214 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -29.6926 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -25.4 -15.24) (xy -23.241 -13.335) (xy -22.1488 -5.715) (xy -23.7998 -3.81) (xy -25.9588 -5.715)
+					(xy -27.051 -13.335) (xy -25.4 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -24.9682 -15.748) (xy -22.7838 -13.843) (xy -15.1638 -13.843) (xy -13.5382 -15.748) (xy -15.6972 -17.653)
+					(xy -23.3172 -17.653) (xy -24.9682 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -23.6474 -2.794) (xy -21.4884 -0.889) (xy -20.3962 6.731) (xy -22.0472 8.636) (xy -24.2062 6.731)
+					(xy -25.2984 -0.889) (xy -23.6474 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -23.2156 -3.302) (xy -21.0312 -1.397) (xy -13.4112 -1.397) (xy -11.7856 -3.302) (xy -13.97 -5.207)
+					(xy -21.59 -5.207) (xy -23.2156 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -21.463 9.144) (xy -19.304 11.049) (xy -11.684 11.049) (xy -10.033 9.144) (xy -12.2174 7.239)
+					(xy -19.8374 7.239) (xy -21.463 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -12.954 -15.24) (xy -10.795 -13.335) (xy -9.7028 -5.715) (xy -11.3538 -3.81) (xy -13.5128 -5.715)
+					(xy -14.605 -13.335) (xy -12.954 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -11.2014 -2.794) (xy -9.0424 -0.889) (xy -7.9502 6.731) (xy -9.6012 8.636) (xy -11.7602 6.731)
+					(xy -12.8524 -0.889) (xy -11.2014 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center -9.3726 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -15.24) (xy -2.921 -13.335) (xy -1.8288 -5.715) (xy -3.4798 -3.81) (xy -5.6388 -5.715)
+					(xy -6.731 -13.335) (xy -5.08 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -4.6482 -15.748) (xy -2.4638 -13.843) (xy 5.1562 -13.843) (xy 6.7818 -15.748) (xy 4.6228 -17.653)
+					(xy -2.9972 -17.653) (xy -4.6482 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -3.3274 -2.794) (xy -1.1684 -0.889) (xy -0.0762 6.731) (xy -1.7272 8.636) (xy -3.8862 6.731)
+					(xy -4.9784 -0.889) (xy -3.3274 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.8956 -3.302) (xy -0.7112 -1.397) (xy 6.9088 -1.397) (xy 8.5344 -3.302) (xy 6.35 -5.207)
+					(xy -1.27 -5.207) (xy -2.8956 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.143 9.144) (xy 1.016 11.049) (xy 8.636 11.049) (xy 10.287 9.144) (xy 8.1026 7.239) (xy 0.4826 7.239)
+					(xy -1.143 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 7.366 -15.24) (xy 9.525 -13.335) (xy 10.6172 -5.715) (xy 8.9662 -3.81) (xy 6.8072 -5.715) (xy 5.715 -13.335)
+					(xy 7.366 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 9.1186 -2.794) (xy 11.2776 -0.889) (xy 12.3698 6.731) (xy 10.7188 8.636) (xy 8.5598 6.731)
+					(xy 7.4676 -0.889) (xy 9.1186 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 10.9474 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 15.24 -15.24) (xy 17.399 -13.335) (xy 18.4912 -5.715) (xy 16.8402 -3.81) (xy 14.6812 -5.715)
+					(xy 13.589 -13.335) (xy 15.24 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 15.6718 -15.748) (xy 17.8562 -13.843) (xy 25.4762 -13.843) (xy 27.1018 -15.748) (xy 24.9428 -17.653)
+					(xy 17.3228 -17.653) (xy 15.6718 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 16.9926 -2.794) (xy 19.1516 -0.889) (xy 20.2438 6.731) (xy 18.5928 8.636) (xy 16.4338 6.731)
+					(xy 15.3416 -0.889) (xy 16.9926 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 17.4244 -3.302) (xy 19.6088 -1.397) (xy 27.2288 -1.397) (xy 28.8544 -3.302) (xy 26.67 -5.207)
+					(xy 19.05 -5.207) (xy 17.4244 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 19.177 9.144) (xy 21.336 11.049) (xy 28.956 11.049) (xy 30.607 9.144) (xy 28.4226 7.239) (xy 20.8026 7.239)
+					(xy 19.177 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 27.686 -15.24) (xy 29.845 -13.335) (xy 30.9372 -5.715) (xy 29.2862 -3.81) (xy 27.1272 -5.715)
+					(xy 26.035 -13.335) (xy 27.686 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 29.4386 -2.794) (xy 31.5976 -0.889) (xy 32.6898 6.731) (xy 31.0388 8.636) (xy 28.8798 6.731)
+					(xy 27.7876 -0.889) (xy 29.4386 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 31.2674 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 35.56 -15.24) (xy 37.719 -13.335) (xy 38.8112 -5.715) (xy 37.1602 -3.81) (xy 35.0012 -5.715)
+					(xy 33.909 -13.335) (xy 35.56 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 35.9918 -15.748) (xy 38.1762 -13.843) (xy 45.7962 -13.843) (xy 47.4218 -15.748) (xy 45.2628 -17.653)
+					(xy 37.6428 -17.653) (xy 35.9918 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 37.3126 -2.794) (xy 39.4716 -0.889) (xy 40.5638 6.731) (xy 38.9128 8.636) (xy 36.7538 6.731)
+					(xy 35.6616 -0.889) (xy 37.3126 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 37.7444 -3.302) (xy 39.9288 -1.397) (xy 47.5488 -1.397) (xy 49.1744 -3.302) (xy 46.99 -5.207)
+					(xy 39.37 -5.207) (xy 37.7444 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 39.497 9.144) (xy 41.656 11.049) (xy 49.276 11.049) (xy 50.927 9.144) (xy 48.7426 7.239) (xy 41.1226 7.239)
+					(xy 39.497 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 48.006 -15.24) (xy 50.165 -13.335) (xy 51.2572 -5.715) (xy 49.6062 -3.81) (xy 47.4472 -5.715)
+					(xy 46.355 -13.335) (xy 48.006 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 49.7586 -2.794) (xy 51.9176 -0.889) (xy 53.0098 6.731) (xy 51.3588 8.636) (xy 49.1998 6.731)
+					(xy 48.1076 -0.889) (xy 49.7586 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 51.5874 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 57.6326 -2.794) (xy 59.7916 -0.889) (xy 60.8838 6.731) (xy 59.2328 8.636) (xy 57.0738 6.731)
+					(xy 55.9816 -0.889) (xy 57.6326 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 58.0644 -3.302) (xy 60.2488 -1.397) (xy 67.8688 -1.397) (xy 69.4944 -3.302) (xy 67.31 -5.207)
+					(xy 59.69 -5.207) (xy 58.0644 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 59.817 9.144) (xy 61.976 11.049) (xy 69.596 11.049) (xy 71.247 9.144) (xy 69.0626 7.239) (xy 61.4426 7.239)
+					(xy 59.817 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 70.0786 -2.794) (xy 72.2376 -0.889) (xy 73.3298 6.731) (xy 71.6788 8.636) (xy 69.5198 6.731)
+					(xy 68.4276 -0.889) (xy 70.0786 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 71.9074 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 76.2 -15.24) (xy 78.359 -13.335) (xy 79.4512 -5.715) (xy 77.8002 -3.81) (xy 75.6412 -5.715)
+					(xy 74.549 -13.335) (xy 76.2 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 76.6318 -15.748) (xy 78.8162 -13.843) (xy 86.4362 -13.843) (xy 88.0618 -15.748) (xy 85.9028 -17.653)
+					(xy 78.2828 -17.653) (xy 76.6318 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 77.9526 -2.794) (xy 80.1116 -0.889) (xy 81.2038 6.731) (xy 79.5528 8.636) (xy 77.3938 6.731)
+					(xy 76.3016 -0.889) (xy 77.9526 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 78.3844 -3.302) (xy 80.5688 -1.397) (xy 88.1888 -1.397) (xy 89.8144 -3.302) (xy 87.63 -5.207)
+					(xy 80.01 -5.207) (xy 78.3844 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 80.137 9.144) (xy 82.296 11.049) (xy 89.916 11.049) (xy 91.567 9.144) (xy 89.3826 7.239) (xy 81.7626 7.239)
+					(xy 80.137 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 88.646 -15.24) (xy 90.805 -13.335) (xy 91.8972 -5.715) (xy 90.2462 -3.81) (xy 88.0872 -5.715)
+					(xy 86.995 -13.335) (xy 88.646 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 90.3986 -2.794) (xy 92.5576 -0.889) (xy 93.6498 6.731) (xy 91.9988 8.636) (xy 89.8398 6.731)
+					(xy 88.7476 -0.889) (xy 90.3986 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 92.2274 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 96.52 -15.24) (xy 98.679 -13.335) (xy 99.7712 -5.715) (xy 98.1202 -3.81) (xy 95.9612 -5.715)
+					(xy 94.869 -13.335) (xy 96.52 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 96.9518 -15.748) (xy 99.1362 -13.843) (xy 106.7562 -13.843) (xy 108.3818 -15.748) (xy 106.2228 -17.653)
+					(xy 98.6028 -17.653) (xy 96.9518 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 98.2726 -2.794) (xy 100.4316 -0.889) (xy 101.5238 6.731) (xy 99.8728 8.636) (xy 97.7138 6.731)
+					(xy 96.6216 -0.889) (xy 98.2726 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 98.7044 -3.302) (xy 100.8888 -1.397) (xy 108.5088 -1.397) (xy 110.1344 -3.302) (xy 107.95 -5.207)
+					(xy 100.33 -5.207) (xy 98.7044 -3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 100.457 9.144) (xy 102.616 11.049) (xy 110.236 11.049) (xy 111.887 9.144) (xy 109.7026 7.239)
+					(xy 102.0826 7.239) (xy 100.457 9.144)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 108.966 -15.24) (xy 111.125 -13.335) (xy 112.2172 -5.715) (xy 110.5662 -3.81) (xy 108.4072 -5.715)
+					(xy 107.315 -13.335) (xy 108.966 -15.24)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 110.7186 -2.794) (xy 112.8776 -0.889) (xy 113.9698 6.731) (xy 112.3188 8.636) (xy 110.1598 6.731)
+					(xy 109.0676 -0.889) (xy 110.7186 -2.794)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 112.5474 -15.748)
+				(radius 1.651)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "ILC2-12/8L_1_1"
+			(text "г"
+				(at -119.1006 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "д"
+				(at -105.8672 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at -104.14 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "ж"
+				(at -100.5332 -15.748 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at -98.7806 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at -97.028 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "е"
+				(at -93.4212 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at -91.694 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at -90.6392 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "д"
+				(at -85.5472 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at -83.82 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "ж"
+				(at -80.2132 -15.748 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at -78.4606 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at -76.708 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "е"
+				(at -73.1012 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at -71.374 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at -70.3192 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "д"
+				(at -65.2272 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at -63.5 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "ж"
+				(at -59.8932 -15.748 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at -58.1406 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at -56.388 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "е"
+				(at -52.7812 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at -51.054 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at -49.9992 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "д"
+				(at -44.9072 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at -43.18 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "ж"
+				(at -39.5732 -15.748 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at -37.8206 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at -36.068 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "е"
+				(at -32.4612 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at -30.734 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at -29.6792 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "д"
+				(at -24.5872 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at -22.86 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "ж"
+				(at -19.2532 -15.748 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at -17.5006 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at -15.748 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "е"
+				(at -12.1412 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at -10.414 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at -9.3592 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "д"
+				(at -4.2672 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at -2.54 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "ж"
+				(at 1.0668 -15.748 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at 2.8194 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at 4.572 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "е"
+				(at 8.1788 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at 9.906 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at 10.9608 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "д"
+				(at 16.0528 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at 17.78 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "ж"
+				(at 21.3868 -15.748 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at 23.1394 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at 24.892 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "е"
+				(at 28.4988 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at 30.226 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at 31.2808 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "д"
+				(at 36.3728 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at 38.1 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "ж"
+				(at 41.7068 -15.748 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at 43.4594 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at 45.212 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "е"
+				(at 48.8188 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at 50.546 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at 51.6008 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at 58.42 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at 63.7794 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at 65.532 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at 70.866 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at 71.9208 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "д"
+				(at 77.0128 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at 78.74 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "ж"
+				(at 82.3468 -15.748 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at 84.0994 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at 85.852 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "е"
+				(at 89.4588 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at 91.186 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at 92.2408 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "д"
+				(at 97.3328 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "б"
+				(at 99.06 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "ж"
+				(at 102.6668 -15.748 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "г"
+				(at 104.4194 -3.302 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "а"
+				(at 106.172 9.144 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "е"
+				(at 109.7788 -9.525 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "в"
+				(at 111.506 2.921 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
+				)
+			)
+			(text "и"
+				(at 112.5608 -15.5562 0)
+				(effects
+					(font
+						(size 1.905 1.905)
+					)
 				)
 			)
 		)
