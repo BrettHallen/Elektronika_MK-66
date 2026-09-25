@@ -1,4 +1,4 @@
-# К145ИП16Б (K145IP16B)
+# К145ИП16Б<br>K145IP16B
 
 Single-chip calculator LSI used in the Soviet *Elektronika* **MK-35** and **MK-66 / MK-66A** microcalculators. It contains the arithmetic unit, control logic, keyboard scanning and the display drivers, and works directly with the **ИЛЦ2-12/8Л** 12-position vacuum-fluorescent display.
 
