@@ -1,8 +1,8 @@
 # Elektronika MK-66<br>Электроника МК-66
 Information about the Soviet-era engineering "microcalculator".<br>
 
-Processor: К145ИП16Б<br>
-Display: ИЛЦ2-12/8Л<br>
+Processor: [К145ИП16Б](/K145IP16B/)<br>
+Display: [ИЛЦ2-12/8Л](/ILC2-12_8L)<br>
 Keypad: 5x5 metal-dome matrix<br>
 
 ## DEAR COMRADE!
