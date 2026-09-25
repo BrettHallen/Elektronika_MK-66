@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 340" width="560" height="340" font-family="Helvetica, Arial, sans-serif">
+<title>ILC2-12/8L segment designations</title>
+<polygon points="194.0,60.0 203.0,51.0 277.0,51.0 286.0,60.0 277.0,69.0 203.0,69.0" fill="#9aa0a6" fill-opacity="0.45" stroke="#9aa0a6" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="290.0,64.0 299.0,73.0 299.0,147.0 290.0,156.0 281.0,147.0 281.0,73.0" fill="#9aa0a6" fill-opacity="0.45" stroke="#9aa0a6" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="290.0,164.0 299.0,173.0 299.0,247.0 290.0,256.0 281.0,247.0 281.0,173.0" fill="#9aa0a6" fill-opacity="0.45" stroke="#9aa0a6" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="194.0,260.0 203.0,251.0 277.0,251.0 286.0,260.0 277.0,269.0 203.0,269.0" fill="#9aa0a6" fill-opacity="0.45" stroke="#9aa0a6" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="190.0,164.0 199.0,173.0 199.0,247.0 190.0,256.0 181.0,247.0 181.0,173.0" fill="#9aa0a6" fill-opacity="0.45" stroke="#9aa0a6" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="190.0,64.0 199.0,73.0 199.0,147.0 190.0,156.0 181.0,147.0 181.0,73.0" fill="#9aa0a6" fill-opacity="0.45" stroke="#9aa0a6" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="194.0,160.0 203.0,151.0 277.0,151.0 286.0,160.0 277.0,169.0 203.0,169.0" fill="#9aa0a6" fill-opacity="0.45" stroke="#9aa0a6" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="316.0" cy="260.0" r="9.0" fill="#9aa0a6" fill-opacity="0.45" stroke="#9aa0a6" stroke-width="1.5"/>
+<line x1="240.0" y1="60.0" x2="240.0" y2="26.0" stroke="#9aa0a6" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="240.0" y="31.0" text-anchor="middle" font-size="26" font-weight="700" fill="#888">а<tspan font-size="17" font-weight="400" fill="#888"> (a)  pin 17</tspan></text>
+<line x1="190.0" y1="110.0" x2="120.0" y2="100.0" stroke="#9aa0a6" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="120.0" y="105.0" text-anchor="end" font-size="26" font-weight="700" fill="#888">б<tspan font-size="17" font-weight="400" fill="#888"> (f)  pin 18</tspan></text>
+<line x1="290.0" y1="110.0" x2="360.0" y2="100.0" stroke="#9aa0a6" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="360.0" y="105.0" text-anchor="start" font-size="26" font-weight="700" fill="#888">в<tspan font-size="17" font-weight="400" fill="#888"> (b)  pin 16</tspan></text>
+<line x1="240.0" y1="160.0" x2="360.0" y2="160.0" stroke="#9aa0a6" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="360.0" y="165.0" text-anchor="start" font-size="26" font-weight="700" fill="#888">г<tspan font-size="17" font-weight="400" fill="#888"> (g)  pin 19</tspan></text>
+<line x1="190.0" y1="210.0" x2="120.0" y2="220.0" stroke="#9aa0a6" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="120.0" y="225.0" text-anchor="end" font-size="26" font-weight="700" fill="#888">д<tspan font-size="17" font-weight="400" fill="#888"> (e)  pin 20</tspan></text>
+<line x1="290.0" y1="210.0" x2="360.0" y2="220.0" stroke="#9aa0a6" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="360.0" y="225.0" text-anchor="start" font-size="26" font-weight="700" fill="#888">е<tspan font-size="17" font-weight="400" fill="#888"> (c)  pin 15</tspan></text>
+<line x1="240.0" y1="260.0" x2="240.0" y2="306.0" stroke="#9aa0a6" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="240.0" y="311.0" text-anchor="middle" font-size="26" font-weight="700" fill="#888">ж<tspan font-size="17" font-weight="400" fill="#888"> (d)  pin 21</tspan></text>
+<line x1="316.0" y1="260.0" x2="440" y2="290" stroke="#9aa0a6" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="444" y="296" text-anchor="start" font-size="26" font-weight="700" fill="#888">и<tspan font-size="17" font-weight="400" fill="#888"> (dp)  pin 14</tspan></text>
+<text x="280" y="332" text-anchor="middle" font-size="14" fill="#888">ИЛЦ2-12/8Л — segment letters, Western equivalents in brackets, display pin numbers</text>
+</svg>
